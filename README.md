@@ -1,7 +1,4 @@
 THE CHASER
-Video Demo:  <URL HERE>
-Description:
-Hi everyone, My name is Luv Khubani, I am a 23 years old software engineer from Indore India.
 This is the interactive two player game(My Final Project) which I had made when I had started learning a bit more about Js in a course from udemy,
 As i was curious after week 8 of CS50.
 So this is an interactive game where 2 players have to roll the dice and the one who reaches the score of twenty first wins the game.
