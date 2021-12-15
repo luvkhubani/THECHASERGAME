@@ -1,3 +1,4 @@
+This website was developed when I was doing the course of Javascript by Jonas Schmedtmann on udemy.
 1) The game consists of two players.
 2) First player gets the chance first and he has to roll the dice and have temporary score until the player tap on hold to add its temporary score
 to its final, which is considered to win the game.
